@@ -4,6 +4,16 @@ Its is/was work in progress.
 A tiny Pygame experiment revived from my first-ever game project. Built with a lot of curiosity and “vibe coding.”  
 1080×1080, 60 FPS, simple controls, and a few home-made assets.
 
+Spider_game/
+├─ src/
+│  ├─ 2mblik_v5.py
+│  └─ old_versions/
+│      ├─ food_small.png
+│      ├─ enemy_small.png
+│      ├─ player_small.png
+│      ├─ ground.jpg
+
+
 ## Demo
 ![Gameplay GIF](screenshots/gameplay.gif) - 
 
